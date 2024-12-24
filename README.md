@@ -1,4 +1,4 @@
-# Hospital-Management-Analytics
+**# Hospital-Management-Analytics
 Hospital Management Analytics: Patient &amp; Doctor Insights This project involves designing and analyzing a comprehensive database system for hospital management. It aims to efficiently track patient records, doctor schedules, appointments, and billing, providing actionable insights to improve hospital operations.
 
 Description for GitHub:
@@ -27,4 +27,4 @@ Key Questions Explored:
 8.Analyze peak hours for appointments and suggest time slots for more efficient scheduling.
 
 Contact me!
-If you have any questions, suggestions, or just want to say hello, you can reach out to us at Tushar Aggarwal. We would love to hear from you!
+If you have any questions, suggestions, or just want to say hello, you can reach out to us at Tushar Aggarwal. We would love to hear from you!**
